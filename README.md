@@ -1,7 +1,7 @@
 # Patient Wait List Analysis Dashboard  
 ![dashboard gif](https://github.com/user-attachments/assets/273393df-69eb-48bb-bde8-86f83f298d4f)  
 ## Indroduction  
-This Healthcare dashboard was created to provides a comprehensive overview and detailed analysis of patient wait times. It focuses on key indicators related to the median/average patient wait list, broken down by various factors such as case type, time bands, age profile, and medical specialty.  
+This Healthcare dashboard was created to provide a comprehensive overview and detailed analysis of patient wait times. It focuses on key indicators related to the median/average patient wait list, broken down by various factors such as case type, time bands, age profile, and medical specialty.  
 ## Dashboard file  
 My Dashboard file is available to view on Power BI desktop here [Patient Wait List Dashboard.pbix](https://github.com/nishi-uthappa/Patient-Wait-List-Analysis-Project/blob/main/Healthcare%20Power%20BI%20Dashboard%20Project.pbix)  
 ## Power BI Skills used   
